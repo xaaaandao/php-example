@@ -24,8 +24,8 @@
                     </h3>
                     <ul>
                         <li>
-                            <a href="exercicio.php?dir=teste&file=teste">
-                                Exercício A
+                            <a href="exercicio.php?dir=basico&file=ola">
+                                Olá PHP
                             </a>
                         </li>
                     </ul>

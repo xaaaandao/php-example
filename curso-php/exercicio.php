@@ -33,7 +33,7 @@
                 // OU
                 // include(__DIR___ . "{$_GET['dir']}/{$_GET['file']}.php");
                 // OU
-                // include("{$_GET['dir']}/{$_GET['file']}.php")
+                include("{$_GET['dir']}/{$_GET['file']}.php")
             ?>
         </div>
     </main>

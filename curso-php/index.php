@@ -24,7 +24,7 @@
                     </h3>
                     <ul>
                         <li>
-                            <a href="#">
+                            <a href="exercicio.php?dir=teste&file=teste">
                                 Exercício A
                             </a>
                         </li>
@@ -220,7 +220,7 @@
         </div>
     </main>
     <footer class="rodape">
-        COD3R & ALUNOS © 2020
+        COD3R & ALUNOS © <?= date('Y') ?>
     </footer>
 </body>
 </html>

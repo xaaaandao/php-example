@@ -132,6 +132,11 @@
                                 Desafio Variáveis
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=valor_referencia">
+                                Valor VS Referência
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>

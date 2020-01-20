@@ -23,5 +23,5 @@
     $variavelReferencia = &$variavel;
     $variavelReferencia = 'mesma referência';
 
-    echo "<br> $variavel";
+    echo "$variavel";
     echo "<br> $variavelReferencia";

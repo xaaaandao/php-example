@@ -20,7 +20,7 @@
             <nav class="modulos">
                 <div class="modulo verde">
                     <h3>
-                       Básico
+                       1. Básico
                     </h3>
                     <ul>
                         <li>
@@ -52,7 +52,7 @@
                 </div>
                 <div class="modulo vermelho">
                     <h3>
-                        Tipos
+                        2. Tipos
                     </h3>
                     <ul>
                         <li>
@@ -99,7 +99,7 @@
                 </div>
                 <div class="modulo azul">
                     <h3>
-                        Variáveis
+                        3. Variáveis
                     </h3>
                     <ul>
                         <li>
@@ -143,6 +143,28 @@
                             </a>
                         </li>
                     </ul>
+                </div>
+                <div class="modulo roxo">
+                    <h3>
+                        4. Controle
+                    </h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=if_else">
+                                If Else
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=operadores_relacionais">
+                                Op. Relacionais
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=desafio_pi">
+                                Desafio PI
+                            </a>
+                        </li>
+                    </ul>                    
                 </div>
             </nav>
         </div>

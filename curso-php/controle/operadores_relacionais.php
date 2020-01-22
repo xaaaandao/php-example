@@ -25,7 +25,7 @@
     var_dump(1 === '1');
     echo '<br>';
 
-    echo "<p>Relacionais no If/Else</p><hr>";
+    echo "<p class='divisao'>Relacionais no If/Else</p><hr>";
     $idade = 25;
 
     if($idade < 18) {
@@ -37,7 +37,7 @@
         echo "Teceira idade = $idade anos!<br>";
     }
     
-    echo '<p>Spaceship</p><hr>';
+    echo '<p class="divisao">Spaceship</p><hr>';
     # Comparação ou ordenação de número
     # Se for da esquerda maior é 1
     var_dump(5 <=> 3);
@@ -49,7 +49,7 @@
     var_dump(5 <=> 50);
     echo '<br>';
 
-    echo '<p>Valores pode ser V ou F</p><hr>';
+    echo '<p class="divisao">Valores pode ser V ou F</p><hr>';
     var_dump(!!5);
     echo '<br>';
     var_dump(!!0);

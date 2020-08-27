@@ -20,104 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ac42069-fa2e-4ebe-8a7a-e892b6473ad1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/includes/desafio.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/include_once.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/include_once_arquivo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/pessoa.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/require_return.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/return_nao_usado.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/return_usado.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/usuario.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../antigos/example_get/app/views/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/../antigos/example_get/app/views/home.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../antigos/example_get/equipe.php" beforeDir="false" afterPath="$PROJECT_DIR$/../antigos/example_get/equipe.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../antigos/example_get/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/../antigos/example_get/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../antigos/example_get/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/../antigos/example_get/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../antigos/example_get/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/../antigos/example_get/home.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../antigos/example_get/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../antigos/example_get/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../antigos/form/dados_enviados/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../antigos/form/dados_enviados/data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../antigos/form/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../antigos/form/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../antigos/form/processa.php" beforeDir="false" afterPath="$PROJECT_DIR$/../antigos/form/processa.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../antigos/form/teste.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../antigos/form/teste.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../antigos/helloworld.php" beforeDir="false" afterPath="$PROJECT_DIR$/../antigos/helloworld.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../antigos/oo/Connect.php" beforeDir="false" afterPath="$PROJECT_DIR$/../antigos/oo/Connect.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../antigos/oo/Connect2.php" beforeDir="false" afterPath="$PROJECT_DIR$/../antigos/oo/Connect2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../antigos/oo/Pessoa.php" beforeDir="false" afterPath="$PROJECT_DIR$/../antigos/oo/Pessoa.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../antigos/oo/Programador.php" beforeDir="false" afterPath="$PROJECT_DIR$/../antigos/oo/Programador.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../antigos/oo/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/../antigos/oo/main.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../antigos/psr/psr.php" beforeDir="false" afterPath="$PROJECT_DIR$/../antigos/psr/psr.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../antigos/variaveis.php" beforeDir="false" afterPath="$PROJECT_DIR$/../antigos/variaveis.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/basico.php" beforeDir="false" afterPath="$PROJECT_DIR$/array/basico.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/comparacao.php" beforeDir="false" afterPath="$PROJECT_DIR$/array/comparacao.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/constantes.php" beforeDir="false" afterPath="$PROJECT_DIR$/array/constantes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/desafio_index.php" beforeDir="false" afterPath="$PROJECT_DIR$/array/desafio_index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/desafio_meses.php" beforeDir="false" afterPath="$PROJECT_DIR$/array/desafio_meses.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/desafio_sorteio.php" beforeDir="false" afterPath="$PROJECT_DIR$/array/desafio_sorteio.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/get.php" beforeDir="false" afterPath="$PROJECT_DIR$/array/get.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/mapa.php" beforeDir="false" afterPath="$PROJECT_DIR$/array/mapa.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/multi.php" beforeDir="false" afterPath="$PROJECT_DIR$/array/multi.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/operacoes.php" beforeDir="false" afterPath="$PROJECT_DIR$/array/operacoes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/post.php" beforeDir="false" afterPath="$PROJECT_DIR$/array/post.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basico/comentarios.php" beforeDir="false" afterPath="$PROJECT_DIR$/basico/comentarios.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basico/css.php" beforeDir="false" afterPath="$PROJECT_DIR$/basico/css.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basico/desafio.php" beforeDir="false" afterPath="$PROJECT_DIR$/basico/desafio.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basico/html.php" beforeDir="false" afterPath="$PROJECT_DIR$/basico/html.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basico/ola.php" beforeDir="false" afterPath="$PROJECT_DIR$/basico/ola.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes_objetos/abstract.php" beforeDir="false" afterPath="$PROJECT_DIR$/classes_objetos/abstract.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes_objetos/classe.php" beforeDir="false" afterPath="$PROJECT_DIR$/classes_objetos/classe.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes_objetos/construtor_destrutor.php" beforeDir="false" afterPath="$PROJECT_DIR$/classes_objetos/construtor_destrutor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes_objetos/data.php" beforeDir="false" afterPath="$PROJECT_DIR$/classes_objetos/data.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes_objetos/desafio_erros.php" beforeDir="false" afterPath="$PROJECT_DIR$/classes_objetos/desafio_erros.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes_objetos/final.php" beforeDir="false" afterPath="$PROJECT_DIR$/classes_objetos/final.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes_objetos/heranca.php" beforeDir="false" afterPath="$PROJECT_DIR$/classes_objetos/heranca.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes_objetos/interface.php" beforeDir="false" afterPath="$PROJECT_DIR$/classes_objetos/interface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes_objetos/magic_methods.php" beforeDir="false" afterPath="$PROJECT_DIR$/classes_objetos/magic_methods.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes_objetos/polimorfismo.php" beforeDir="false" afterPath="$PROJECT_DIR$/classes_objetos/polimorfismo.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes_objetos/static.php" beforeDir="false" afterPath="$PROJECT_DIR$/classes_objetos/static.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes_objetos/traits_01.php" beforeDir="false" afterPath="$PROJECT_DIR$/classes_objetos/traits_01.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes_objetos/traits_02.php" beforeDir="false" afterPath="$PROJECT_DIR$/classes_objetos/traits_02.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes_objetos/visibilidade.php" beforeDir="false" afterPath="$PROJECT_DIR$/classes_objetos/visibilidade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controle/desafio_operadores_logicos.php" beforeDir="false" afterPath="$PROJECT_DIR$/controle/desafio_operadores_logicos.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controle/desafio_pi.php" beforeDir="false" afterPath="$PROJECT_DIR$/controle/desafio_pi.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controle/desafio_switch.php" beforeDir="false" afterPath="$PROJECT_DIR$/controle/desafio_switch.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controle/if_else.php" beforeDir="false" afterPath="$PROJECT_DIR$/controle/if_else.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controle/operador_ternario.php" beforeDir="false" afterPath="$PROJECT_DIR$/controle/operador_ternario.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controle/operadores_logicos.php" beforeDir="false" afterPath="$PROJECT_DIR$/controle/operadores_logicos.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controle/operadores_relacionais.php" beforeDir="false" afterPath="$PROJECT_DIR$/controle/operadores_relacionais.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controle/switch.php" beforeDir="false" afterPath="$PROJECT_DIR$/controle/switch.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicio.php" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/funcoes/escopo.php" beforeDir="false" afterPath="$PROJECT_DIR$/funcoes/escopo.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/desafio.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/include_funcao.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/include_funcao.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/include_once.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/include_once_arquivo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/includes/include_require.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/include_require.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/pessoa.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/require_return.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/return_nao_usado.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/return_usado.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/usuario.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursos/css/estilo.css" beforeDir="false" afterPath="$PROJECT_DIR$/recursos/css/estilo.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursos/css/exercicio.css" beforeDir="false" afterPath="$PROJECT_DIR$/recursos/css/exercicio.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repeticoes/break_continue.php" beforeDir="false" afterPath="$PROJECT_DIR$/repeticoes/break_continue.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repeticoes/desafio_for.php" beforeDir="false" afterPath="$PROJECT_DIR$/repeticoes/desafio_for.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repeticoes/desafio_impressao.php" beforeDir="false" afterPath="$PROJECT_DIR$/repeticoes/desafio_impressao.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repeticoes/desafio_tabela.php" beforeDir="false" afterPath="$PROJECT_DIR$/repeticoes/desafio_tabela.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repeticoes/desafio_tabela_2.php" beforeDir="false" afterPath="$PROJECT_DIR$/repeticoes/desafio_tabela_2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repeticoes/for.php" beforeDir="false" afterPath="$PROJECT_DIR$/repeticoes/for.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repeticoes/foreach.php" beforeDir="false" afterPath="$PROJECT_DIR$/repeticoes/foreach.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repeticoes/while.php" beforeDir="false" afterPath="$PROJECT_DIR$/repeticoes/while.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teste/teste.php" beforeDir="false" afterPath="$PROJECT_DIR$/teste/teste.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tipos/aritmeticas.php" beforeDir="false" afterPath="$PROJECT_DIR$/tipos/aritmeticas.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tipos/booleano.php" beforeDir="false" afterPath="$PROJECT_DIR$/tipos/booleano.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tipos/conversoes.php" beforeDir="false" afterPath="$PROJECT_DIR$/tipos/conversoes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tipos/desafio_precedencia.php" beforeDir="false" afterPath="$PROJECT_DIR$/tipos/desafio_precedencia.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tipos/desafio_string.php" beforeDir="false" afterPath="$PROJECT_DIR$/tipos/desafio_string.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tipos/float.php" beforeDir="false" afterPath="$PROJECT_DIR$/tipos/float.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tipos/int.php" beforeDir="false" afterPath="$PROJECT_DIR$/tipos/int.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tipos/string.php" beforeDir="false" afterPath="$PROJECT_DIR$/tipos/string.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/atribuicoes.php" beforeDir="false" afterPath="$PROJECT_DIR$/variaveis/atribuicoes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/basico.php" beforeDir="false" afterPath="$PROJECT_DIR$/variaveis/basico.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/constantes.php" beforeDir="false" afterPath="$PROJECT_DIR$/variaveis/constantes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/desafio_equacao.php" beforeDir="false" afterPath="$PROJECT_DIR$/variaveis/desafio_equacao.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/desafio_variaveis.php" beforeDir="false" afterPath="$PROJECT_DIR$/variaveis/desafio_variaveis.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/interpolacao.php" beforeDir="false" afterPath="$PROJECT_DIR$/variaveis/interpolacao.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/valor_referencia.php" beforeDir="false" afterPath="$PROJECT_DIR$/variaveis/valor_referencia.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/variaveis_variaveis.php" beforeDir="false" afterPath="$PROJECT_DIR$/variaveis/variaveis_variaveis.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,6 +49,9 @@
     <setting file="file://$PROJECT_DIR$/includes/include_funcao.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1gYibZNJSB6ODY5bXgEIk3heecX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -142,6 +60,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -154,6 +78,8 @@
       <workItem from="1598297999501" duration="150000" />
       <workItem from="1598298164812" duration="1792000" />
       <workItem from="1598458913720" duration="1088000" />
+      <workItem from="1598470599643" duration="2098000" />
+      <workItem from="1598554725011" duration="1297000" />
     </task>
     <servers />
   </component>
@@ -173,10 +99,18 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="478" y="324" width="401" height="149" key="NewPhpFileDialog" timestamp="1598459863765">
+    <state x="478" y="324" width="401" height="149" key="NewPhpFileDialog" timestamp="1598555429503">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state x="478" y="324" width="401" height="149" key="NewPhpFileDialog/0.30.1366.738@0.30.1366.738" timestamp="1598459863765" />
+    <state x="478" y="324" width="401" height="149" key="NewPhpFileDialog/0.30.1366.738@0.30.1366.738" timestamp="1598555429503" />
+    <state x="0" y="30" width="620" height="738" key="find.popup" timestamp="1598555654799">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="0" y="30" width="620" height="738" key="find.popup/0.30.1366.738@0.30.1366.738" timestamp="1598555654799" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1598555524336">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.30.1366.738@0.30.1366.738" timestamp="1598555524336" />
     <state x="408" y="313" width="542" height="172" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1598299882595">
       <screen x="0" y="30" width="1366" height="738" />
     </state>

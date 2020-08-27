@@ -2,7 +2,7 @@
 
 <?php
 // Mostra os warnings
-ini_set('display_errors', 1);
+init_set('display_errors', 1);
 
 echo 'Usando include com arquivo inexistente...<br>';
 include('arquivo_inexistente.php');

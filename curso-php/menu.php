@@ -422,4 +422,23 @@
             </li>
         </ul>
     </div>
+    <div class="modulo laranja-escuro">
+        <h3>
+            10. Namespace
+        </h3>
+        <ul>
+            <li>
+                 <a href="exercicio.php?dir=namespace&file=basico">
+                    Básico
+                </a>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <a href="exercicio.php?dir=namespace&file=sub_namespaces">
+                    Sub-Namespaces
+                </a>
+            </li>
+        </ul>
+    </div>
 </nav>

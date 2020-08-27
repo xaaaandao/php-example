@@ -1,4 +1,2 @@
 <?php
-
-    $variavelDeclarada = 'Apenas foi declarada';
-
+$variavelDeclarada = 'Apenas foi declarada';

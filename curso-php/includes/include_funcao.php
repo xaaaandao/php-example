@@ -11,11 +11,9 @@ function carregarArquivo() {
 }
 
 echo 'Novamente no arquivo include_funcao<br>';
-
 // echo soma(1, 8) . '!<br>';
-carregarArquivo(); // tem que chamar a função senão ele não calcula a soma da linha 20
+carregarArquivo();
 
-// Dá erro mesmo, porque você não tem acesso a variável que está na função
-echo "Variável = ".$variavel.";";
+echo "Variável = '{$variavel}'.";
 // var_dump($variavel);
 echo '<br>' . soma(3, 8);

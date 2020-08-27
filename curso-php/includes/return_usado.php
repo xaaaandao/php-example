@@ -1,4 +1,3 @@
 <?php
-
-    $variavelRetornada = 'Sou um retorno';
-    return $variavelRetornada;
+$variavelRetornada = 'Sou um retorno';
+return $variavelRetornada;

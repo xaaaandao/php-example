@@ -468,8 +468,15 @@
         </ul>
         <ul>
             <li>
-                <a href="exercicio.php?dir=tratamento_erro&file=desafio_intdiv">
+                <a href="exercicio.php?dir=tratamento_erro&file=desafio_intdiv_teste">
                     Desafio intdiv
+                </a>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <a href="exercicio.php?dir=tratamento_erro&file=gerenciador_erro">
+                    Error handler
                 </a>
             </li>
         </ul>

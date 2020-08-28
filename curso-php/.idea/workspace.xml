@@ -20,9 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ac42069-fa2e-4ebe-8a7a-e892b6473ad1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sessao/basico_sessao.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessao/basico_sessao_alterar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessao/basico_sessao_limpar.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sessao/basico_sessao.php" beforeDir="false" afterPath="$PROJECT_DIR$/sessao/basico_sessao.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +52,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sessao" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -58,6 +60,22 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sessao" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="sessao" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/sessao" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.sessao" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -73,6 +91,7 @@
       <workItem from="1598470599643" duration="2098000" />
       <workItem from="1598554725011" duration="6075000" />
       <workItem from="1598623046971" duration="7778000" />
+      <workItem from="1598647497137" duration="3123000" />
     </task>
     <servers />
   </component>
@@ -92,10 +111,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="478" y="324" width="401" height="149" key="NewPhpFileDialog" timestamp="1598637910960">
+    <state x="478" y="324" width="401" height="149" key="NewPhpFileDialog" timestamp="1598650128867">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state x="478" y="324" width="401" height="149" key="NewPhpFileDialog/0.30.1366.738@0.30.1366.738" timestamp="1598637910960" />
+    <state x="478" y="324" width="401" height="149" key="NewPhpFileDialog/0.30.1366.738@0.30.1366.738" timestamp="1598650128867" />
     <state x="0" y="30" width="620" height="738" key="find.popup" timestamp="1598555654799">
       <screen x="0" y="30" width="1366" height="738" />
     </state>

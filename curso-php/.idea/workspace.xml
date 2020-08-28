@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ac42069-fa2e-4ebe-8a7a-e892b6473ad1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tratamento_erro/gerenciador_erro.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessao/basico_sessao.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/menu.php" afterDir="false" />
     </list>
@@ -72,7 +72,7 @@
       <workItem from="1598458913720" duration="1088000" />
       <workItem from="1598470599643" duration="2098000" />
       <workItem from="1598554725011" duration="6075000" />
-      <workItem from="1598623046971" duration="6762000" />
+      <workItem from="1598623046971" duration="7778000" />
     </task>
     <servers />
   </component>
@@ -92,10 +92,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="478" y="324" width="401" height="149" key="NewPhpFileDialog" timestamp="1598635813539">
+    <state x="478" y="324" width="401" height="149" key="NewPhpFileDialog" timestamp="1598637910960">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state x="478" y="324" width="401" height="149" key="NewPhpFileDialog/0.30.1366.738@0.30.1366.738" timestamp="1598635813539" />
+    <state x="478" y="324" width="401" height="149" key="NewPhpFileDialog/0.30.1366.738@0.30.1366.738" timestamp="1598637910960" />
     <state x="0" y="30" width="620" height="738" key="find.popup" timestamp="1598555654799">
       <screen x="0" y="30" width="1366" height="738" />
     </state>

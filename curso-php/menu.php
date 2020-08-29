@@ -494,8 +494,8 @@
         </ul>
         <ul>
             <li>
-                <a href="exercicio.php?dir=sessao&file=basico_sessao">
-                    Sessão
+                <a href="exercicio.php?dir=sessao&file=gerenciando_sessao">
+                    Gerenciado Sessão
                 </a>
             </li>
         </ul>

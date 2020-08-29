@@ -2,7 +2,10 @@
 start:
 	php -S localhost:8000
 
-git:
+permissao:
 	sudo chmod a+x /opt/lampp/htdocs/php-example/
 	sudo chmod 777 -R /opt/lampp/htdocs/php-example/
-	git add .
+
+git:
+	make permissao
+	cd /opt/lampp/htdocs/php-example/ && git add .

@@ -1,14 +1,13 @@
-<?php
-    session_start();
+<?php 
+session_start();
 
-    // verifica se tem o cookie, se tem o define
-    if($_COOKIE['usuario']) {
-        $_SESSION['usuario'] = $_COOKIE=['usuario'];
-    }
+if($_COOKIE['usuario']) {
+    $_SESSION['usuario'] = $_COOKIE['usuario'];
+}
 
-    if(!$_SESSION['usuario']) {
-        header('Location: login.php');
-    }
+if(!$_SESSION['usuario']) {
+    header('Location: login.php');
+}
 ?>
 
 <!DOCTYPE html>
@@ -19,32 +18,22 @@
     <link rel="stylesheet" href="recursos/css/estilo.css">
     <title>Curso PHP</title>
 </head>
-<body class="login">
+<body>
     <header class="cabecalho">
-        <h1>
-            curso-php
-        </h1>
-        <h2>
-            Índice dos Exercícios
-        </h2>
+        <h1>Curso PHP</h1>
+        <h2>Índice dos Exercícios</h2>
     </header>
     <nav class="navegacao">
-        <span class="usuario">
-            Usuário: <?= $_SESSION['usuario'] ?>
-        </span>
-        <a href="logout.php" class="vermelho">
-            Sair
-        </a>
+        <span class="usuario">Usuário: <?= $_SESSION['usuario'] ?></span>
+        <a href="logout.php" class="vermelho">Sair</a>
     </nav>
-    <main class="pricinpal">
+    <main class="principal">
         <div class="conteudo">
-            <?php
-                require_once('menu.php');
-            ?>
+            <?php require_once('menu.php'); ?>
         </div>
     </main>
     <footer class="rodape">
-        COD3R & ALUNOS © <?= date('Y') ?>
+        COD3R & ALUNOS © <?= date('Y'); ?>
     </footer>
 </body>
 </html>

@@ -1,4 +1,4 @@
-<div class="titulo">Download</div>
+<div class="titulo">Imagens</div>
 
 <?php 
 session_start();
@@ -26,11 +26,12 @@ if (move_uploaded_file($tmp, $arquivo)) {
 
 <ul>
     <?php foreach($arquivos as $arquivo): ?>
-        <li>
-            <a href="./<?= $arquivo ?>">
-                <?= $arquivo ?>
-            </a>
-        </li>
+        <?php if(stripos($arquivo, '.png') > 0): ?>
+            <li>
+                <img src="./<?= $arquivo ?>"
+                    height="120" />
+            </li>
+        <?php endif ?>
     <?php endforeach ?>
 </ul>
 

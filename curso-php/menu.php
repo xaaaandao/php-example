@@ -566,4 +566,58 @@
             </li>
         </ul>
     </div>
+    <div class="modulo laranja">
+        <h3>
+            15. BD
+        </h3>
+        <ul>
+            <li>
+                <a href="exercicio.php?dir=db&file=criar_banco">
+                    Criar Banco
+                </a>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <a href="exercicio.php?dir=db&file=criar_tabela">
+                    Criar Tabela
+                </a>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <a href="exercicio.php?dir=db&file=inserir_1">
+                    Inserir Registro #01
+                </a>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <a href="exercicio.php?dir=db&file=consultar">
+                    Consultar Registro
+                </a>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <a href="exercicio.php?dir=db&file=excluir_1">
+                    Excluir Registro #01
+                </a>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <a href="exercicio.php?dir=db&file=excluir_2">
+                    Excluir Registro #02
+                </a>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <a href="exercicio.php?dir=db&file=inserir_2">
+                    Inserir Registro #02
+                </a>
+            </li>
+        </ul>
+    </div>
 </nav>
